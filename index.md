@@ -1,3 +1,8 @@
-# Welcome to my blog
+# Welcome to my H1
+## Welcome to my H2
+### Welcome to my H3
 
-I'm glad you are here. I plan to talk about ...
+<details>
+ <summary>Summary Goes Here</summary>
+ ...this is hidden, collapsable content...
+</details>
